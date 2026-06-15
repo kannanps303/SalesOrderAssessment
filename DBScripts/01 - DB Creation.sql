@@ -1,0 +1,5 @@
+CREATE DATABASE SalesOrderDB;
+GO
+
+USE SalesOrderDB;
+GO
